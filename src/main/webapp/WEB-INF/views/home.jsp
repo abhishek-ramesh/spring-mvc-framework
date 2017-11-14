@@ -40,7 +40,7 @@
 			See the <code>org.springframework.samples.mvc.simple</code> package for the @Controller code
 		</p>
                  <p>
-                        <b>Brillio welcomes you to the OpenShift demo!</b>
+                        <b>Freddie Mac welcomes you to the OpenShift demo!</b>
                  </p>
 		<ul>
 			<li>
