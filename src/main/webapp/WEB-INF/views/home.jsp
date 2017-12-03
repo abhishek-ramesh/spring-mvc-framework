@@ -17,7 +17,7 @@
 </head>
 <body>
 <h1><a href="<c:url value="/" />">Spring-MVC-OpenShift</a></h1>
-<p>Please use a Web Developer tool such a Firebug to inspect the client/server interaction</p>
+<p>Please use a Web Developer tool such a Firebug to inspect the client/server interaction!!!</p>
 <div id="tabs">
 	<ul>
 		<li><a href="#simple">Simple</a></li>
