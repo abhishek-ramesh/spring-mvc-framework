@@ -2,7 +2,7 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>spring-mvc-showcase</title>
+	<title>Spring-MVC-OpenShift</title>
 	<link href="<c:url value="/resources/form.css" />" rel="stylesheet"  type="text/css" />		
 	<link href="<c:url value="/resources/jqueryui/1.8/themes/base/jquery.ui.core.css" />" rel="stylesheet" type="text/css"/>
 	<link href="<c:url value="/resources/jqueryui/1.8/themes/base/jquery.ui.theme.css" />" rel="stylesheet" type="text/css"/>
@@ -16,8 +16,8 @@
 	<meta name="_csrf_header" content="${_csrf.headerName}"/>
 </head>
 <body>
-<h1><a href="<c:url value="/" />">spring-mvc-showcase</a></h1>
-<p>Recommended: Using a Web Developer tool such a Firebug to inspect the client/server interaction</p>
+<h1><a href="<c:url value="/" />">Spring-MVC-OpenShift</a></h1>
+<p>Please use a Web Developer tool such a Firebug to inspect the client/server interaction</p>
 <div id="tabs">
 	<ul>
 		<li><a href="#simple">Simple</a></li>
@@ -40,7 +40,7 @@
 			See the <code>org.springframework.samples.mvc.simple</code> package for the @Controller code
 		</p>
                  <p>
-                        <b>Brillio Mac welcomes you to the OpenShift demo!</b>
+                        <b>OpenShift welcomes you to the Interim demo!</b>
                  </p>
 		<ul>
 			<li>
